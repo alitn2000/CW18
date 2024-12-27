@@ -1,0 +1,11 @@
+D:\c#\CW`S\CW18\App.Domain.Core\bin\Debug\net8.0\App.Domain.Core.deps.json
+D:\c#\CW`S\CW18\App.Domain.Core\bin\Debug\net8.0\App.Domain.Core.dll
+D:\c#\CW`S\CW18\App.Domain.Core\bin\Debug\net8.0\App.Domain.Core.pdb
+D:\c#\CW`S\CW18\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CW`S\CW18\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.AssemblyInfoInputs.cache
+D:\c#\CW`S\CW18\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.AssemblyInfo.cs
+D:\c#\CW`S\CW18\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.csproj.CoreCompileInputs.cache
+D:\c#\CW`S\CW18\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.dll
+D:\c#\CW`S\CW18\App.Domain.Core\obj\Debug\net8.0\refint\App.Domain.Core.dll
+D:\c#\CW`S\CW18\App.Domain.Core\obj\Debug\net8.0\App.Domain.Core.pdb
+D:\c#\CW`S\CW18\App.Domain.Core\obj\Debug\net8.0\ref\App.Domain.Core.dll

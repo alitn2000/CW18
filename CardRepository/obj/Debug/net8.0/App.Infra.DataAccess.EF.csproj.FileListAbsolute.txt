@@ -1,0 +1,17 @@
+D:\c#\CW`S\CW18\CardRepository\bin\Debug\net8.0\App.Infra.DataAccess.EF.deps.json
+D:\c#\CW`S\CW18\CardRepository\bin\Debug\net8.0\App.Infra.DataAccess.EF.dll
+D:\c#\CW`S\CW18\CardRepository\bin\Debug\net8.0\App.Infra.DataAccess.EF.pdb
+D:\c#\CW`S\CW18\CardRepository\bin\Debug\net8.0\App.Domain.Core.dll
+D:\c#\CW`S\CW18\CardRepository\bin\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.dll
+D:\c#\CW`S\CW18\CardRepository\bin\Debug\net8.0\App.Domain.Core.pdb
+D:\c#\CW`S\CW18\CardRepository\bin\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.pdb
+D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\App.Infra.DataAccess.EF.csproj.AssemblyReference.cache
+D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\App.Infra.DataAccess.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\App.Infra.DataAccess.EF.AssemblyInfoInputs.cache
+D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\App.Infra.DataAccess.EF.AssemblyInfo.cs
+D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\App.Infra.DataAccess.EF.csproj.CoreCompileInputs.cache
+D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\App.Infr.1D227C7B.Up2Date
+D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\App.Infra.DataAccess.EF.dll
+D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\refint\App.Infra.DataAccess.EF.dll
+D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\App.Infra.DataAccess.EF.pdb
+D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\ref\App.Infra.DataAccess.EF.dll

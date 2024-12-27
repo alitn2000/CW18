@@ -1,0 +1,17 @@
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\bin\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.deps.json
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\bin\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.runtimeconfig.json
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\bin\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.dll
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\bin\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.pdb
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\bin\Debug\net8.0\App.Domain.Core.dll
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\bin\Debug\net8.0\App.Domain.Core.pdb
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.csproj.AssemblyReference.cache
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.AssemblyInfoInputs.cache
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.AssemblyInfo.cs
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.csproj.CoreCompileInputs.cache
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infr.7A55DB56.Up2Date
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.dll
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net8.0\refint\App.Infra.Data.Db.SqlServer.Ef.dll
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.pdb
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net8.0\App.Infra.Data.Db.SqlServer.Ef.genruntimeconfig.cache
+D:\c#\CW`S\CW18\App.Infra.Data.Db.SqlServer.Ef\obj\Debug\net8.0\ref\App.Infra.Data.Db.SqlServer.Ef.dll
