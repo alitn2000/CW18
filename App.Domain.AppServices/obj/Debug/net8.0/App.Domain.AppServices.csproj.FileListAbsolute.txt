@@ -19,3 +19,4 @@ D:\c#\CW`S\CW18\App.Domain.AppServices\bin\Debug\net8.0\App.Infra.Data.Db.SqlSer
 D:\c#\CW`S\CW18\App.Domain.AppServices\bin\Debug\net8.0\App.Infra.DataAccess.EF.pdb
 D:\c#\CW`S\CW18\App.Domain.AppServices\obj\Debug\net8.0\App.Domain.AppServices.csproj.AssemblyReference.cache
 D:\c#\CW`S\CW18\App.Domain.AppServices\obj\Debug\net8.0\App.Doma.0BF5E7BD.Up2Date
+D:\c#\CW`S\CW18\App.Domain.AppServices\obj\Debug\net8.0\App.Domain.AppServices.sourcelink.json

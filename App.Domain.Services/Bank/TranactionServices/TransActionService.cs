@@ -81,18 +81,11 @@ namespace App.Domain.Services.Bank.TranactionServices
                 _cardRepository.UpdateCardLimits(sourceCard);
                 return true;
             }
-            public bool GetTransactions(string cardNo)
+            public List<TransAction>? GetTransactions(string cardNo)
             {
-                var trans = _transactionRepository.ShowAll(cardNo);
-                if (trans == null)
-                {
-                    return false;
-                }
-                foreach (var t in trans)
-                {
-                    Console.WriteLine($"Transaction ID: {t.TransactionId}, Source: {t.SourceCardNumber}, Destination: {t.DestinationCardNumber}, Amount: {t.Amount}, Date: {t.TransactionDate}, Successful: {t.IsSuccessful}");
-                }
-                return true;
+                return _transactionRepository.ShowAll(cardNo);
+                
+               
             }
 
             public bool CheckFilePass(string userPass)
@@ -109,7 +102,6 @@ namespace App.Domain.Services.Bank.TranactionServices
 
             public void PassCreate()
             {
-
 
                 System.Timers.Timer timer;
                 string FilePath = @"C:\Users\Ali\Desktop\pass.txt";

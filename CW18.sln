@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "packages", "packages", "{2A91B6CF-460D-491A-93FA-BFE7F734CB71}"
 EndProject
@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Infra.Data.Db.SqlServer
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{DB72F612-D636-477F-B804-50A140760AB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApp.EndPoint", "MVCApp.EndPoint\MVCApp.EndPoint.csproj", "{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{0B4AAB95-DDB9-4A3C-B72A-28C2B3F53C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B4AAB95-DDB9-4A3C-B72A-28C2B3F53C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B4AAB95-DDB9-4A3C-B72A-28C2B3F53C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -85,5 +91,6 @@ Global
 		{39943C43-8C14-43BF-AE84-DA5742392909} = {41ABA18C-D811-48E7-BF79-A7945F468322}
 		{0B4AAB95-DDB9-4A3C-B72A-28C2B3F53C92} = {39943C43-8C14-43BF-AE84-DA5742392909}
 		{DB72F612-D636-477F-B804-50A140760AB1} = {41ABA18C-D811-48E7-BF79-A7945F468322}
+		{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7} = {B1BAF500-2C49-41AC-9EB5-34131A716790}
 	EndGlobalSection
 EndGlobal

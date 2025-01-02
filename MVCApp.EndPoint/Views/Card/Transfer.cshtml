@@ -1,0 +1,52 @@
+﻿<div class="container px-5 my-5">
+    <form method="post" asp-action="TransferPost" data-sb-form-api-token="API_TOKEN">
+
+        <div class="form-floating mb-3">
+            <input class="form-control" id="DcardNumber" name="DcardNumber" type="text" placeholder="DcardNumber" data-sb-validations="required" />
+            <label for="DcardNumber">Destination CardNumber</label>
+            <div class="invalid-feedback" data-sb-feedback="userName:required">Cardnumber is required.</div>
+        </div>
+
+        <div class="form-floating mb-3">
+            <input class="form-control" id="amount" name="amount" type="number" placeholder="amount" data-sb-validations="required" />
+            <label for="amount">amount</label>
+            <div class="invalid-feedback" data-sb-feedback="amount:required">amount is required.</div>
+        </div>
+
+        <div class="form-floating mb-3">
+            <input class="form-control" id="tPass" name="tPass" type="text" placeholder="tPass" data-sb-validations="required" />
+            <label for="userName">tPass</label>
+            <div class="invalid-feedback" data-sb-feedback="Temporary password:required">Temporary password is required.</div>
+        </div>
+
+        <div class="d-none" id="submitErrorMessage">
+            <div class="text-center text-danger mb-3">Error sending message!</div>
+        </div>
+        <div class="d-grid">
+            <button class="btn btn-primary btn-lg" id="submitButton" type="submit">Transfer</button>
+        </div>
+
+    </form>
+
+    @if (ViewBag.DCardNumber is not null)
+    {
+        <div class="alert alert-danger">@ViewBag.DCardNumber</div>
+    }
+   
+    @if (ViewBag.DCardFound is not null)
+    {
+        <div class="alert alert-danger">@ViewBag.DCardFound</div>
+    }
+    @if (ViewBag.amount is not null)
+    {
+        <div class="alert alert-danger">@ViewBag.amount</div>
+    }
+    @if (ViewBag.tPass is not null)
+    {
+        <div class="alert alert-danger">@ViewBag.tPass</div>
+    }
+    @if (ViewBag.successfully is not null)
+    {
+        <div class="alert alert-success">@ViewBag.successfully</div>
+    }
+</div>

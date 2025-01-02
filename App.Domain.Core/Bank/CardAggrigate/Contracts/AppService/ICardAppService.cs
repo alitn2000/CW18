@@ -13,6 +13,6 @@ namespace App.Domain.Core.Bank.CardAggrigate.Contracts.AppService
         bool CardExist(string CartNo);
         Card? GetCard(string cardNo);
         void Update(string cardNo);
-        void ChangePass(string cardNo, string oldPass, string newPass);
+        bool ChangePass(string cardNo, string oldPass, string newPass);
     }
 }

@@ -15,3 +15,4 @@ D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\App.Infra.DataAccess.EF.dll
 D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\refint\App.Infra.DataAccess.EF.dll
 D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\App.Infra.DataAccess.EF.pdb
 D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\ref\App.Infra.DataAccess.EF.dll
+D:\c#\CW`S\CW18\CardRepository\obj\Debug\net8.0\App.Infra.DataAccess.EF.sourcelink.json

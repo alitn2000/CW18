@@ -45,19 +45,19 @@ public class CardService : ICardService
         _cardRepository.UpdateCardStatus(cardNo);
     }
 
-    public void ChangePass(string cardNo, string oldPass, string newPass)
+    public bool ChangePass(string cardNo, string oldPass, string newPass)
     {
         if (oldPass == newPass)
         {
-            Console.WriteLine("the passwords you enetred is the same!!!");
-            return;
+           
+            return false;
         }
         if (!_cardRepository.UpdatePass(cardNo, oldPass, newPass))
         {
-            Console.WriteLine("your old password is incorrect!!!");
-            return;
+            
+            return false;
         }
-        Console.WriteLine("your password changed successfully.");
+        return true;
     }
 
 

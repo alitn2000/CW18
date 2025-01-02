@@ -1,5 +1,6 @@
 ﻿using App.Domain.Core.Bank.TransactionAggrigate.AppService;
 using App.Domain.Core.Bank.TransactionAggrigate.Contracts;
+using App.Domain.Core.Bank.TransactionAggrigate.Entite;
 using App.Domain.Services.Bank.TranactionServices;
 using System.Timers;
 namespace App.Domain.AppServices.TransactionAggrigate
@@ -17,9 +18,9 @@ namespace App.Domain.AppServices.TransactionAggrigate
            return _TransactionService.CheckFilePass(userPass);
         }
 
-        public bool GetTransactions(string cardNo)
+        public List<TransAction>? GetTransactions(string cardNo)
         {
-           return _TransactionService.GetTransactions(cardNo);
+            return _TransactionService.GetTransactions( cardNo);
         }
 
         public bool Transfer(string source, string destination, float money)

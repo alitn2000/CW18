@@ -159,18 +159,18 @@ while (count < 3)
                 //    break;
                 //}
 
-                var hasTransactions = transactionAppService.GetTransactions(card.CardNumber);
-                if (!hasTransactions)
-                {
-                    Console.WriteLine("You don't have any transactions.");
-                }
-                else
-                {
-                    Console.WriteLine("Transactions retrieved successfully.");
-                }
-                Console.WriteLine("Press any key to continue...");
-                Console.ReadKey();
-                break;
+                //var hasTransactions = transactionAppService.GetTransactions(card.CardNumber);
+                //if (!hasTransactions)
+                //{
+                //    Console.WriteLine("You don't have any transactions.");
+                //}
+                //else
+                //{
+                //    Console.WriteLine("Transactions retrieved successfully.");
+                //}
+                //Console.WriteLine("Press any key to continue...");
+                //Console.ReadKey();
+                //break;
 
             case "3":
                 var Card = cardAppService.GetCard(cardNo);

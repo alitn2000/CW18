@@ -23,9 +23,9 @@ namespace App.Domain.AppServices.CardAggrigate
         return _cardService.CardExist(CartNo);
         }
 
-        public void ChangePass(string cardNo, string oldPass, string newPass)
+        public bool ChangePass(string cardNo, string oldPass, string newPass)
         {
-            _cardService.ChangePass( cardNo,  oldPass,  newPass);
+           return  _cardService.ChangePass( cardNo,  oldPass,  newPass);
         }
 
         public Card? GetCard(string cardNo)
