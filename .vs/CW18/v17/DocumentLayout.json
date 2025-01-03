@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "D:\\c#\\CW\u0060S\\CW18\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|d:\\c#\\cw\u0060s\\cw18\\mvcapp.endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|solutionrelative:mvcapp.endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7FC39F-0D10-4E60-8C00-9D28FB63D009}|App.Domain.AppServices\\App.Domain.AppServices.csproj|d:\\c#\\cw\u0060s\\cw18\\app.domain.appservices\\cardaggrigate\\cardappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7FC39F-0D10-4E60-8C00-9D28FB63D009}|App.Domain.AppServices\\App.Domain.AppServices.csproj|solutionrelative:app.domain.appservices\\cardaggrigate\\cardappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|d:\\c#\\cw\u0060s\\cw18\\mvcapp.endpoint\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|solutionrelative:mvcapp.endpoint\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9DCFB9-433A-459D-834A-CF49980F7ED5}|App.Domain.Services\\App.Domain.Services.csproj|d:\\c#\\cw\u0060s\\cw18\\app.domain.services\\bank\\cardservices\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9DCFB9-433A-459D-834A-CF49980F7ED5}|App.Domain.Services\\App.Domain.Services.csproj|solutionrelative:app.domain.services\\bank\\cardservices\\cardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9850033A-7262-4D7B-AE92-A0597EE09A9B}|CardRepository\\App.Infra.DataAccess.EF.csproj|d:\\c#\\cw\u0060s\\cw18\\cardrepository\\cardaggrigate\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9850033A-7262-4D7B-AE92-A0597EE09A9B}|CardRepository\\App.Infra.DataAccess.EF.csproj|solutionrelative:cardrepository\\cardaggrigate\\cardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7FC39F-0D10-4E60-8C00-9D28FB63D009}|App.Domain.AppServices\\App.Domain.AppServices.csproj|d:\\c#\\cw\u0060s\\cw18\\app.domain.appservices\\transactionaggrigate\\transactionappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7FC39F-0D10-4E60-8C00-9D28FB63D009}|App.Domain.AppServices\\App.Domain.AppServices.csproj|solutionrelative:app.domain.appservices\\transactionaggrigate\\transactionappservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9DCFB9-433A-459D-834A-CF49980F7ED5}|App.Domain.Services\\App.Domain.Services.csproj|d:\\c#\\cw\u0060s\\cw18\\app.domain.services\\bank\\tranactionservices\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9DCFB9-433A-459D-834A-CF49980F7ED5}|App.Domain.Services\\App.Domain.Services.csproj|solutionrelative:app.domain.services\\bank\\tranactionservices\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|d:\\c#\\cw\u0060s\\cw18\\mvcapp.endpoint\\views\\card\\transfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|solutionrelative:mvcapp.endpoint\\views\\card\\transfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|d:\\c#\\cw\u0060s\\cw18\\mvcapp.endpoint\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|solutionrelative:mvcapp.endpoint\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|d:\\c#\\cw\u0060s\\cw18\\mvcapp.endpoint\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|solutionrelative:mvcapp.endpoint\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +51,12 @@
       "RelativeMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|solutionrelative:mvcapp.endpoint\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|d:\\c#\\cw\u0060s\\cw18\\mvcapp.endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|solutionrelative:mvcapp.endpoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F9DCFB9-433A-459D-834A-CF49980F7ED5}|App.Domain.Services\\App.Domain.Services.csproj|d:\\c#\\cw\u0060s\\cw18\\app.domain.services\\bank\\tranactionservices\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F9DCFB9-433A-459D-834A-CF49980F7ED5}|App.Domain.Services\\App.Domain.Services.csproj|solutionrelative:app.domain.services\\bank\\tranactionservices\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|d:\\c#\\cw\u0060s\\cw18\\mvcapp.endpoint\\views\\card\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|solutionrelative:mvcapp.endpoint\\views\\card\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|d:\\c#\\cw\u0060s\\cw18\\mvcapp.endpoint\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|solutionrelative:mvcapp.endpoint\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|d:\\c#\\cw\u0060s\\cw18\\mvcapp.endpoint\\views\\card\\transfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8DB10DE3-E0F7-4062-91CC-7DB854FB40B7}|MVCApp.EndPoint\\MVCApp.EndPoint.csproj|solutionrelative:mvcapp.endpoint\\views\\card\\transfer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4DB22F8-5331-41CC-AED1-DF03A854BBBE}|Bank\\App.EndPoint.csproj|d:\\c#\\cw\u0060s\\cw18\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\Bank\\Program.cs",
               "RelativeDocumentMoniker": "Bank\\Program.cs",
@@ -59,18 +83,17 @@
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAFIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T09:07:01.373Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "CardController.cs",
               "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Controllers\\CardController.cs",
               "RelativeDocumentMoniker": "MVCApp.EndPoint\\Controllers\\CardController.cs",
               "ToolTip": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Controllers\\CardController.cs",
               "RelativeToolTip": "MVCApp.EndPoint\\Controllers\\CardController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAQwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T10:41:19.643Z",
               "IsPinned": true,
@@ -78,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "ChangePassword.cshtml",
               "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Views\\Card\\ChangePassword.cshtml",
               "RelativeDocumentMoniker": "MVCApp.EndPoint\\Views\\Card\\ChangePassword.cshtml",
@@ -87,8 +110,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-02T13:05:12.774Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -96,20 +118,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVCApp.EndPoint\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVCApp.EndPoint\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:30:04.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CardRepository.cs",
+              "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\CardRepository\\CardAggrigate\\CardRepository.cs",
+              "RelativeDocumentMoniker": "CardRepository\\CardAggrigate\\CardRepository.cs",
+              "ToolTip": "D:\\c#\\CW\u0060S\\CW18\\CardRepository\\CardAggrigate\\CardRepository.cs",
+              "RelativeToolTip": "CardRepository\\CardAggrigate\\CardRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:20:30.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionAppService.cs",
+              "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\App.Domain.AppServices\\TransactionAggrigate\\TransactionAppService.cs",
+              "RelativeDocumentMoniker": "App.Domain.AppServices\\TransactionAggrigate\\TransactionAppService.cs",
+              "ToolTip": "D:\\c#\\CW\u0060S\\CW18\\App.Domain.AppServices\\TransactionAggrigate\\TransactionAppService.cs",
+              "RelativeToolTip": "App.Domain.AppServices\\TransactionAggrigate\\TransactionAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:19:36.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CardAppService.cs",
+              "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\App.Domain.AppServices\\CardAggrigate\\CardAppService.cs",
+              "RelativeDocumentMoniker": "App.Domain.AppServices\\CardAggrigate\\CardAppService.cs",
+              "ToolTip": "D:\\c#\\CW\u0060S\\CW18\\App.Domain.AppServices\\CardAggrigate\\CardAppService.cs",
+              "RelativeToolTip": "App.Domain.AppServices\\CardAggrigate\\CardAppService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:17:40.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardService.cs",
+              "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\App.Domain.Services\\Bank\\CardServices\\CardService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Services\\Bank\\CardServices\\CardService.cs",
+              "ToolTip": "D:\\c#\\CW\u0060S\\CW18\\App.Domain.Services\\Bank\\CardServices\\CardService.cs",
+              "RelativeToolTip": "App.Domain.Services\\Bank\\CardServices\\CardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:04:03.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Program.cs",
+              "RelativeDocumentMoniker": "MVCApp.EndPoint\\Program.cs",
+              "ToolTip": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Program.cs",
+              "RelativeToolTip": "MVCApp.EndPoint\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T11:00:36.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCApp.EndPoint\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCApp.EndPoint\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T10:48:24.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TransActionService.cs",
               "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\App.Domain.Services\\Bank\\TranactionServices\\TransActionService.cs",
               "RelativeDocumentMoniker": "App.Domain.Services\\Bank\\TranactionServices\\TransActionService.cs",
               "ToolTip": "D:\\c#\\CW\u0060S\\CW18\\App.Domain.Services\\Bank\\TranactionServices\\TransActionService.cs",
               "RelativeToolTip": "App.Domain.Services\\Bank\\TranactionServices\\TransActionService.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAgwG8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T16:27:44.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MVCApp.EndPoint\\Views\\Home\\Index.cshtml",
@@ -117,12 +230,11 @@
               "RelativeToolTip": "MVCApp.EndPoint\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-02T13:03:37.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T13:03:37.268Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MVCApp.EndPoint\\Controllers\\UserController.cs",
@@ -130,25 +242,11 @@
               "RelativeToolTip": "MVCApp.EndPoint\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:03:14.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T13:03:14.866Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Program.cs",
-              "RelativeDocumentMoniker": "MVCApp.EndPoint\\Program.cs",
-              "ToolTip": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Program.cs",
-              "RelativeToolTip": "MVCApp.EndPoint\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T12:58:39.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCApp.EndPoint\\Controllers\\HomeController.cs",
@@ -156,8 +254,7 @@
               "RelativeToolTip": "MVCApp.EndPoint\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T12:57:10.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-02T12:57:10.503Z"
             },
             {
               "$type": "Document",
@@ -167,7 +264,7 @@
               "RelativeDocumentMoniker": "MVCApp.EndPoint\\Views\\Card\\Transfer.cshtml",
               "ToolTip": "D:\\c#\\CW\u0060S\\CW18\\MVCApp.EndPoint\\Views\\Card\\Transfer.cshtml",
               "RelativeToolTip": "MVCApp.EndPoint\\Views\\Card\\Transfer.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-02T12:55:17.097Z",
               "EditorCaption": ""

@@ -14,9 +14,9 @@ namespace App.Domain.AppServices.CardAggrigate
     public class CardAppService : ICardAppService
     {
         private readonly ICardService _cardService;
-        public CardAppService()
+        public CardAppService(ICardService cardService)
         {
-            _cardService = new CardService();
+            _cardService = cardService;
         }
         public bool CardExist(string CartNo)
         {

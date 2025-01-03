@@ -19,10 +19,10 @@ namespace App.Domain.Services.Bank.TranactionServices
 
         private readonly ICardRepository _cardRepository;
         private readonly ITransactionRepository _transactionRepository;
-        public TransActionService()
+        public TransActionService(ICardRepository cardRepository , ITransactionRepository transactionRepository)
         {
-            _cardRepository = new CardRepository();
-            _transactionRepository = new TransactionRepository();
+            _cardRepository = cardRepository;
+            _transactionRepository = transactionRepository;
         }
 
         public bool Transfer(string source, string destination, float money)

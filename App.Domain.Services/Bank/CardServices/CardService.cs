@@ -13,9 +13,9 @@ namespace App.Domain.Services.Bank.CardServices;
 public class CardService : ICardService
 {
     private readonly ICardRepository _cardRepository;
-    public CardService()
+    public CardService(ICardRepository cardRepository)
     {
-         _cardRepository = new CardRepository();
+         _cardRepository = cardRepository;
     }
 
     public bool UserExist(string userName, string CartNo, string pass)

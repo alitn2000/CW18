@@ -9,9 +9,9 @@ namespace App.Domain.AppServices.TransactionAggrigate
     {
         private readonly ITransactionService _TransactionService;
 
-        public TransactionAppService()
+        public TransactionAppService(ITransactionService TransactionService)
         {
-            _TransactionService = new TransActionService();
+            _TransactionService = TransactionService;
         }
         public bool CheckFilePass(string userPass)
         {
